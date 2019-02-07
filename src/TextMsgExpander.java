@@ -12,6 +12,8 @@ public class TextMsgExpander {
         System.out.println("");
 
         // Check for abbreviations
+
+        System.out.println("Im done!");
        
 
         // Output expanded text
